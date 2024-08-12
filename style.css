@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#decrease{
+    color: red;
+    padding: 10px;
+    width: 50px;  
+}
+
+#counter{
+    margin: 10px;
+}
+
+#increase{
+    color: green;
+    padding: 10px;
+    width: 50px;  
+}
